@@ -8,7 +8,7 @@ cachetools==5.5.2
 click==8.3.1
 importlib-metadata==6.11.0
 packaging==23.2
-rich==14.2.0
+rich<14  # 14 se chhota version, e.g., 13.3.4
 markdown-it-py==4.0.0
 mdurl==0.1.2
 pygments==2.19.2
